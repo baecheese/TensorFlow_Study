@@ -2,7 +2,7 @@
 * 공부자료 - [골빈해커의 3분 딥러닝 텐서플로맛](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162240137&orderClick=LAG&Kc=)
 - - - -
 ## 1. 텐서플로 프로그래밍
-### [1-1 텐서와 그래프 실행](1-1 텐서와 그래프 실행)
+### [1-1 텐서와 그래프 실행](1. 텐서플로 프로그래밍/1-1 텐서와 그래프 실행)
 ### 1-2 플레이스홀더와 변수
 ### 1-3 선형회귀 모델 구현하기
 
